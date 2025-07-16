@@ -1,17 +1,4 @@
-### react ###
-.DS_*
+node_modules/
+.DS_Store
 *.log
-logs
-**/*.backup.*
-**/*.back.*
-
-node_modules
-bower_components
-
-*.sublime*
-
-psd
-thumb
-sketch
-node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs
-node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs
+*.backup.*
