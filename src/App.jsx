@@ -93,23 +93,7 @@ export default function App() {
                   Salut, je suis
                   <br />
                   Johan <span className="inline-block">👋</span>
-                </motion.h1>
-
-                <motion.div
-                  className="flex flex-col sm:flex-row items-center gap-3 mb-4"
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: 1.7, duration: 0.6 }}
-                >
-                  <img
-                    src="/ngreact-logo.png"
-                    alt="NGReact"
-                    className="w-20 h-20 object-contain"
-                  />
-                  <span className="text-sm text-gray-400 italic">
-                    Fondateur de NGReact
-                  </span>
-                </motion.div>
+                </motion.h1>  
 
                 <motion.p
                   className="text-lg text-gray-300 leading-relaxed mb-8"
