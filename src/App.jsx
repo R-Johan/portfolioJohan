@@ -127,14 +127,7 @@ export default function App() {
                   >
                     GitHub
                   </a>
-                  <a
-                    href="/cv-angular-modeSombre.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-xl font-medium shadow transition"
-                  >
-                    Télécharger CV
-                  </a>
+                 
                 </motion.div>
               </div>
 
