@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animation layer personnalisée (optionnel) */
+.reveal-layer {
+  transform-origin: top;
+  will-change: transform;
+}
